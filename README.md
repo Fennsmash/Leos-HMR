@@ -1,4 +1,4 @@
-# Holistic Model of Reality — HMR-MATH Framework
+# HMR-MATH Framework
 
 ## Overview
 Paper 6 is a new model of math, the rest are solutions to the Millennium Prize Problems based on the model.
