@@ -1,7 +1,7 @@
 # HMR-MATH Framework
 
 ## Overview
-Paper 6 is a new model of math, the rest are solutions to the Millennium Prize Problems based on the model.
+A new model of math and solutions to the Millennium Prize Problems based on the model.
 The **Holistic Model of Reality (HMR)** — Mathematics Division — establishes the formal structure for the theory of consciousness and physical law proposed by **Michael Leonidas Emerson**.  
 The **HMR-MATH Framework** defines the logical, quantitative, and symbolic system that connects information, awareness, and natural order within one mathematical model.
 
